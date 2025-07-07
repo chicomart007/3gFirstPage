@@ -1,0 +1,12 @@
+body {
+  min-height: 100hv;
+  background: linear-gradient(to right, blue, yellow, red);
+  display: flex;
+  justify-content: center;
+}
+span {
+  background-color: white;
+  padding: 5px;
+  border-radius: 10px;
+  box-shadow: 0 0 6px black;
+}
